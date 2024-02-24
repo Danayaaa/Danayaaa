@@ -1,5 +1,8 @@
 ### Hi there Reader👋
 
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
+
 🧚🏼‍♀️ I'm Dania Mariz C. Notado, currently studying Information Technology with a specialization in 
 Business Analytics at FEU Institute of Technology. I'm 20 years old and I am from General Trias, Cavite.
 
