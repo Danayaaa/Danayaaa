@@ -1,7 +1,7 @@
 ### Hi there Reader👋
 
 <h2> I'm Dania Mariz C. Notado! </h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230>
 
 
 🧚🏼‍♀️ I'm Dania Mariz C. Notado, currently studying Information Technology with a specialization in 
