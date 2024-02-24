@@ -1,30 +1,48 @@
-### Hi there 👋
+### Hi there Reader👋
 
-<h2> 🧚🏼‍♀️ I'm Dania Mariz C. Notado!  </h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em> I am an Aspiring UI/UX Designer in the future</br> I am currently studying at FEU Institute of Technology as a BSITBA Student </p>
+<h2> I'm Dania Mariz C. Notado! </h2>
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const danaya = {
-  pronouns: "she" | "her",
-  age: 20 years old
-  programming languages: [HTML, CSS, Python, Java, C++],
-  hobby: [designing interfaces],
-  Socials: {
-                        instagram: "danishdoodles",
-                        twitter: "danishdoodles",
-                        github: "Danayaaa",
-                        email: "danianotado21@gmail.com"
-                      },
- Quotes: "It is not enough that we build products that function,
- that are understandable and usable, we also need to build products
- that bring joy and excitement, pleasure and fun, and, yes, beauty
- to people’s lives."
-}
-```
+🧚🏼‍♀️ I'm Dania Mariz C. Notado, currently studying Information Technology with a specialization in 
+Business Analytics at FEU Institute of Technology. I'm 20 years old and I am from General Trias, Cavite.
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love designing </b> so feedbacks are appreciated it <b> I am a new designer!</b> :)</em>
+🧚🏼‍♀️ In my first year of college, I was recognized as a Top Performing Student, showing my commitment to doing well in my studies. My personal goal is to keep getting better at what I do and find success. Professionally, I want to be really good at design and editing.
+
+🧚🏼‍♀️ I really enjoy creating interfaces. I hope to bring more creativity and leave a lasting mark in the IT industry.
+
+</br>
+
+### More About Me:
+
+- :office: &nbsp;I'm currently studying at **FEU Institute of Technology**
+- :seedling: &nbsp;I’m currently working on my **Advanced Web Design Project: YES STYLE**
+- :speech_balloon: &nbsp;I like to talk about **designing** and other **things**
+- :book: &nbsp;Learn more about me on my **resume**
+- :mailbox: &nbsp;Ask me anything on my gmail **danianotado21@gmail.com**
+- :computer: &nbsp;Connect with me on **github: Danayaaa**
+
+</br>
+
+### 🔨 Tools:
+<a href="https://www.python.org" target="_blank"><img align="left" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+<a href="https://www.java.com" target="_blank"><img align="left" alt="Java" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg"></a>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/figma/figma.svg" alt="figma" height='42px'/> </a>
+
+</br>
+
+# Now Playing
+
+![Now Playing](https://status.nmoo.dev/now-playing)
+
+## Top Tracks
+
+![Track 1](https://status.nmoo.dev/top-tracks?i=1)
+  
+
+![Track 2](https://status.nmoo.dev/top-tracks?i=2)
+  
+
+![Track 3](https://status.nmoo.dev/top-tracks?i=3)
 
 
